@@ -1,4 +1,4 @@
-# Is-There-a-Code-to-YouTube-Success-
+# Is-There-a-Code-to-YouTube-Success
 
 This project is for educational and research purposes as part of the Ironhack Data Analytics bootcamp.
 
